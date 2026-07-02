@@ -16,3 +16,6 @@ src-tauri/binaries/*
 vite.config.js
 vite.config.d.ts
 *.tsbuildinfo
+
+# собранные установщики (не храним в git)
+dist-installer/
